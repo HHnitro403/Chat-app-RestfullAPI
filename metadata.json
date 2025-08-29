@@ -1,0 +1,7 @@
+{
+  "name": "Secure Messenger API Docs",
+  "description": "A React application that provides a functional UI and comprehensive documentation for a secure messaging API, simulating message, media, and audio channels.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
